@@ -30,7 +30,7 @@ Follow these steps to explore or run this project on your local machine:
 ### Download and Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ananthakrishnasp/paris-2024-olympics-dashboard.git](https://github.com/your-username/paris-2024-olympics-dashboard.git)
+    git clone https://github.com/ananthakrishnasp/paris-2024-olympics-dashboard.git
     ```
 2.  **Open the Power BI file:**
     * Navigate to the folder and open `Paris_Olympics_2024.pbix` in Power BI Desktop.
